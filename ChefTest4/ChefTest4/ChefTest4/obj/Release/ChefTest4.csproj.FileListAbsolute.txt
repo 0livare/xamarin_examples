@@ -1,0 +1,12 @@
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\ChefTest4.dll
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\ChefTest4.pdb
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\Xamarin.Forms.Core.dll
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\Xamarin.Forms.Platform.dll
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\Xamarin.Forms.Xaml.dll
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\Xamarin.Forms.Core.xml
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\Xamarin.Forms.Xaml.xml
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\obj\Release\ChefTest4.csprojResolveAssemblyReference.cache
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\obj\Release\ChefTest4.dll
+c:\users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\obj\Release\ChefTest4.pdb
+C:\Users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\obj\Release\ChefTest4.dll.mdb
+C:\Users\zach\documents\visual studio 2015\Projects\ChefTest4\ChefTest4\ChefTest4\bin\Release\ChefTest4.dll.mdb

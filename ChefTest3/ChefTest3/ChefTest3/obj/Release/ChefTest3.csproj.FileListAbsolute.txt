@@ -1,0 +1,23 @@
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\ChefTest3.dll
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\ChefTest3.pdb
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.dll
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.pdb
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.dll.mdb
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\ChefTest3.dll.mdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\ChefTest3.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\ChefTest3.pdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.pdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\obj\Release\ChefTest3.dll.mdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3\bin\Release\ChefTest3.dll.mdb

@@ -1,0 +1,62 @@
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.pdb
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.apk
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid-Signed.apk
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\FormsViewGroup.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.pdb
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.csprojResolveAssemblyReference.cache
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.dll
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.pdb
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\android\bin\ChefTest3.Droid.apk
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable\icon.png
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\R.cs.flag
+c:\users\zach posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\uploadflags.txt
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.dll.mdb
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.dll.mdb
+C:\Users\Zach Posten\documents\visual studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.dll.mdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.pdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.apk
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid-Signed.apk
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.pdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.dll.mdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.csprojResolveAssemblyReference.cache
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.dll
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.pdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\android\bin\ChefTest3.Droid.apk
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\R.cs.flag
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\uploadflags.txt
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\obj\Debug\ChefTest3.Droid.dll.mdb
+C:\Users\zach\Documents\Visual Studio 2015\Projects\ChefTest3\ChefTest3\ChefTest3.Droid\bin\Debug\ChefTest3.Droid.dll.mdb
